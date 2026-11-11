@@ -142,6 +142,7 @@ In DVE:
 The waveform should agree with the operation table.
 
 ## Expected Result
+<img width="1912" height="672" alt="Screenshot 2026-11-11 102835" src="https://github.com/user-attachments/assets/25f8141c-7352-408d-8a8e-5fc33a91ff05" />
 
 The 4-bit SIPO Shift Register was realized using Verilog HDL, with the characteristic behaviour:
 
@@ -150,7 +151,7 @@ Q(next) = {Q[2:0], sin}
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected operation table.
 
 ## Output
-<img width="591" height="181" alt="image" src="https://github.com/user-attachments/assets/f27135f4-6a61-4a44-a099-9be11f7cd54b" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 103010" src="https://github.com/user-attachments/assets/dbcc2b73-4a0f-41fb-98ef-873ba3b017a0" />
 
 ## Viva-Voce Questions
 
